@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFzWUjxMSQo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\9zvv\\source\\repos\\CheatCracker\\CheatCracker\\CheatCracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\9zvv\\.nuget\\packages\\icsharpcode.decompiler\\9.1.0.7988\\icsharpcode.decompiler.9.1.0.7988.nupkg.sha512",
+    "C:\\Users\\9zvv\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\9zvv\\.nuget\\packages\\sharpdisasm\\1.1.11\\sharpdisasm.1.1.11.nupkg.sha512",
+    "C:\\Users\\9zvv\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\9zvv\\.nuget\\packages\\system.reflection.metadata\\6.0.0\\system.reflection.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\9zvv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
